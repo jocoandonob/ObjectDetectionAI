@@ -1,5 +1,7 @@
 # Object Detection AI
 
+![Object Detection AI](generated-icon.png)
+
 A FastAPI-based web application for object detection and image processing.
 
 ## Features
