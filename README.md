@@ -1,6 +1,6 @@
 # Object Detection AI
 
-![Object Detection AI](generated-icon.png)
+![Object Detection AI](thumb.png)
 
 A FastAPI-based web application for object detection and image processing.
 
