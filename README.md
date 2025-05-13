@@ -1,4 +1,4 @@
-# Object Detection AI
+# Image Processing App
 
 ![Object Detection AI](thumb.png)
 
